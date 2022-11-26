@@ -3,7 +3,7 @@
 @section('content')
     <h1>Actualiza Post: {{ $post->title }}</h1>
 
-    @include('dashboard.post.fragment._errors-form')
+    @include('dashboard.fragment._errors-form')
         
 
 

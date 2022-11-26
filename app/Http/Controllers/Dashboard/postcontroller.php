@@ -7,8 +7,7 @@ use App\Http\Requests\post\PutRequest;
 use App\Http\Requests\post\StoreRequest;
 use App\Models\Category;
 use App\Models\post;
-use Illuminate\Http\Request;
-use Illuminate\Support\Str;
+
 
 class postcontroller extends Controller
 {
